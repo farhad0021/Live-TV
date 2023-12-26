@@ -36,8 +36,8 @@ http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C288xnc/9.png" group-title="Bangladeshi",Nexus TV
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",MAASRANGA TV
+https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QXKP5zn/10.png" group-title="Bangladeshi", ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
