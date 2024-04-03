@@ -1,1 +1,25 @@
-#EXTM3U #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:43920 #EXT-X-TARGETDURATION:4 #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43920.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43921.ts #EXTINF:4.170, https://jan-4.totototorina.com:7066/hls/willowusa-43922.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43923.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43924.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43925.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43926.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43927.ts #EXTINF:4.170, https://jan-4.totototorina.com:7066/hls/willowusa-43928.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43929.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43930.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43931.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43932.ts #EXTINF:4.171, https://jan-4.totototorina.com:7066/hls/willowusa-43933.ts #EXTINF:4.170, https://jan-4.totototorina.com:7066/hls/willowusa-43934.ts
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=2140692,AVERAGE-BANDWIDTH=1831069,RESOLUTION=960x540,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4403159,AVERAGE-BANDWIDTH=3716452,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_16.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2816532,AVERAGE-BANDWIDTH=2394269,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1802772,AVERAGE-BANDWIDTH=1549469,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_18.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1295892,AVERAGE-BANDWIDTH=1127069,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_19.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=746772,AVERAGE-BANDWIDTH=669469,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_20.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=509146,AVERAGE-BANDWIDTH=471434,RESOLUTION=416x240,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_21.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=366612,AVERAGE-BANDWIDTH=352669,RESOLUTION=416x240,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=768000,CODECS="avc1.64001F",RESOLUTION=960x540,URI="https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_23.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_11_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Hindi",LANGUAGE="hin",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_12_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Tamil",LANGUAGE="tam",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_13_0.m3u8"
