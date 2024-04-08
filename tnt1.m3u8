@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png", Star Jalsha VIP
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTVLCOPT:http-referrer=https://bldcmprod-cdn.toffeelive.com
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703930843:KeyName=prod_linear:Signature=2vitFxI949FVn3C5J2_yW0X46HBo-KTNJkWkXexFWilfrtYEOKsn51IAKsdEOqnCPUjU_YsSBvVEO_fN0UZiCQ
-https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha/playlist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=281135&extension=m3u8
